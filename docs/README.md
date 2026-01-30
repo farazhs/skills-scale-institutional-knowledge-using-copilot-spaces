@@ -10,11 +10,11 @@ OctoAcme's project management approach emphasizes customer-first delivery, itera
 
 Projects at OctoAcme are led collaboratively by a **Project Manager (PM)** who coordinates delivery, schedules, and risk management, and a **Product Manager (PdM)** who defines outcomes, prioritizes the backlog, and measures success. **Developers** implement features following clear acceptance criteria and maintain high test coverage, while **QA/Testing** teams validate quality standards. **Stakeholders** provide strategic input and approvals throughout the lifecycle.
 
-The delivery workflow centers on GitHub Projects boards with columns for Backlog, Ready, In Progress, In Review, QA, and Done. Teams operate in sprints or iterations, holding daily standups, weekly delivery syncs, and end-of-sprint demos. Pull requests are kept small (≤400 lines when possible), include issue links and acceptance criteria, and require automated test and lint passes in CI before review and approval.
+The delivery workflow centers on GitHub Projects boards with columns for Backlog, Ready, In Progress, In Review, QA, and Done. Teams operate in sprints or iterations, holding standups (daily or twice-weekly as agreed), weekly delivery syncs, and end-of-sprint demos. Pull requests are kept small (≤400 lines when possible), include issue links and acceptance criteria, and require automated test and lint passes in CI before review and approval.
 
 ## Communication & Risk Management
 
-Communication follows a predictable cadence: weekly syncs between PM and PdM, twice-weekly standups for delivery teams, and monthly stakeholder updates. All projects maintain a **Risk Register** tracking identified risks with impact, likelihood, ownership, and mitigation plans. Risks are reviewed at weekly syncs and escalated through defined paths—from team-level triage to PM, Product Lead, and Sponsor as needed. Stakeholders receive regular status updates using standardized templates covering progress, next steps, risks/blockers, and decisions needed.
+Communication follows a predictable cadence: weekly syncs between PM and PdM, regular standups for delivery teams (daily or twice-weekly as agreed), and monthly stakeholder updates. All projects maintain a **Risk Register** tracking identified risks with impact, likelihood, ownership, and mitigation plans. Risks are reviewed at weekly syncs and escalated through defined paths—from team-level triage to PM, Product Lead, and Sponsor as needed. Stakeholders receive regular status updates using standardized templates covering progress, next steps, risks/blockers, and decisions needed.
 
 ## Quality & Continuous Improvement
 
